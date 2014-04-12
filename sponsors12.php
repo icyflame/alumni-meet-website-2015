@@ -15,6 +15,11 @@
 	h2{
 		background: #CC9;
 	}
+	
+	img { 
+		margin-left:35px; 
+		margin-right:35px; 
+	} 
 
 	</style>
 
