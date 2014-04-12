@@ -6,6 +6,13 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 	<?php include("mainStyle.php");?>
 	
+	<style>
+	img { 
+		margin-left:35px; 
+		margin-right:35px; 
+	} 
+	</style>
+	
         
 	
 	
