@@ -1,0 +1,12 @@
+body{
+	background-color:white;
+	background-repeat: repeat;
+	max-height: 100%;
+	max-width: 100%;
+	margin-left: 15px; 
+	margin-right: 15px;
+
+}
+.col-md-10 .col-md-8{
+background-color:#f8e4d2;
+}
