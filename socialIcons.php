@@ -1,4 +1,3 @@
-
 <br/>
 
 
@@ -9,7 +8,7 @@
 <a/><br/>');
 		
 }else{echo('
-<button class="Register" data-toggle="modal" data-target="#login">
+<button class="Login" data-toggle="modal" data-target="#login">
   Login
 </button><br/><br/>
 <a href="form.php"><button class="Register">
