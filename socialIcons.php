@@ -9,11 +9,11 @@
 <a/><br/>');
 		
 }else{echo('
-<button class="btn btn-primary btn-lg" data-toggle="modal" data-target="#login">
+<button class="Register" data-toggle="modal" data-target="#login">
   Login
 </button><br/><br/>
-<a class="btn btn-primary btn-lg"  href="form.php">
-  Register
+<a href="form.php"><button class="Register">
+  Register</button>
 </a><br/>');}
 ?>
 <!-- Modal -->
