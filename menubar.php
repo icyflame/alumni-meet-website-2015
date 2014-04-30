@@ -8,7 +8,7 @@
 			<ul>
 				<li><a href='why2come.php'><span>Why to Come</span></a></li>
 				<li><a href='events.php'><span>Events</span></a></li>
-				<li><a href='#'><span>Yearnings of Yore</span></a></li>
+				<li><a href='yoy.php'><span>Yearnings of Yore</span></a></li>
 				<li class='last'><a href='documents/invitation_brochure.pdf' target="_blank"><span>Invitation Brochure</span></a></li>
 			</ul>
 		</li>
