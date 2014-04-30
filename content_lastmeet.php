@@ -142,18 +142,22 @@
             <img src="events_images/closing_ceremony.jpg" width="40%" /></span>
         </div>
 
-        <div class="notViewed animBlock" data-offset="250" data-position="left"
-        id="iphonePerspective">
+        <div class="notViewed animBlock" data-offset="250" data-position=
+        "right" id="iphonePerspective">
             <div class="header_1">
-                9. Closing Ceremony: <span style="font-size:14px">A cultural
+                 10. Closing Ceremony:
+            </div>
+            <span style="font-size:14px">A cultural
                 dance program themed on “Life at IIT Kgp” was organized by the
                 students for the alumni. There was also a special awards
                 distribution ceremony for the visiting alumni. A watch
                 sponsored by our official Time Keeper “Antonio Bernini” was
                 also auctioned during the Closing Ceremony.</span>
-            </div><span style="font-size:14px"><br />
-            <br />
-            <img src="events_images/closing_ceremony.jpg" width="40%" /></span>
+        </div>
+
+        <div class="notViewed animBlock" data-offset="250" data-position=
+        "left-image" id="iphonePerspective">
+            <span><img src="events_images/bonfire.jpg" width="40%" /></span>
         </div>
         
     </div>
