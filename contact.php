@@ -33,7 +33,7 @@
 
 </head>
 
-<body >
+<body class="container">
 <div class="container">
 
 

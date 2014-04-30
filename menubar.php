@@ -1,4 +1,5 @@
 <a href="home.php"><img src="logo.jpg" class="logo" style="z-index:1000;height:200px;"></a>
+<img src="images/invi.jpg" class="logo" style="float:right;height:200px"/>
 <div id="cssmenu">
 
 	<ul>
@@ -6,9 +7,9 @@
 		<li class='has-sub'><a href='#'><span>Meet 2015</span></a>
 			<ul>
 				<li><a href='why2come.php'><span>Why to Come</span></a></li>
-				<li><a href='#'><span>Events</span></a></li>
+				<li><a href='events.php'><span>Events</span></a></li>
 				<li><a href='#'><span>Yearnings of Yore</span></a></li>
-				<li class='last'><a href='documents/invitation_brochure.pdf'><span>Invitation Brochure</span></a></li>
+				<li class='last'><a href='documents/invitation_brochure.pdf' target="_blank"><span>Invitation Brochure</span></a></li>
 			</ul>
 		</li>
 		<li><a href='last_meet.php'><span>Last Meet</span></a></li>

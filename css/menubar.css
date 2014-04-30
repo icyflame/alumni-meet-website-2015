@@ -1,7 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=PT+Sans:400,700);
 #cssmenu {
   z-index: 10002;
-  background:#30e3df;
+  background:black;
   margin: 0;
   width: auto;
   padding: 0;
@@ -94,11 +94,11 @@
   color: #4cb6ea;
 }
 #cssmenu ul:hover{
- background: #30e3df;
+ background: black;
 }
 #cssmenu ul li ul li:hover:after,
 #cssmenu ul li ul li.active:after {
-  background-color: #30e3df;
+  background-color: black;
 }
 #cssmenu ul li ul li:hover > ul {
   left: 170px;
@@ -172,7 +172,7 @@
 }
 #cssmenu > ul > li:hover > a:after,
 #cssmenu > ul > li.active > a:after {
-  background: #30e3df;
+  background: black;
 }
 #cssmenu > ul > li:hover > a:before,
 #cssmenu > ul > li.active > a:before {

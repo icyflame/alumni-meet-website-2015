@@ -20,6 +20,7 @@
 
 <script type="text/javascript" src="http://code.jquery.com/jquery-1.8.2.js"></script>
 <script type="text/javascript">
+/*
 $(window).load(function() {
 document.getElementById("mainpage").style.display="none";
  var factor = 2;
@@ -45,12 +46,12 @@ function start(){
 //document.getElementById("pageloaddiv").setAttribute("style","background-image:url('invi2.jpg')");
 
 //document.getElementById("pageloaddiv").setAttribute("style","background-image:url('invi.jpg')");
-});
+});*/
 </script>
 
 <style type="text/css">
 
-#pageloaddiv1{
+<!--#pageloaddiv1{
 position: fixed;
 left: 100%;
 top: -10%;
@@ -68,6 +69,6 @@ height:100%;
 z-index: 10000;
 background: url('logo.jpg') no-repeat center center;
 background-size:40%;
-}
+}-->
 </style>
 

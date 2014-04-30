@@ -1,12 +1,12 @@
 <link rel="stylesheet" href="css/points_why2come.css">
 <p >
-	<div class="class_1">We have 11 good reasons of "Why should you attend the Meet?"
+	<div class="class_1">We have 12 good reasons of "Why should you attend the Meet?"
 	</div>
 </p>
 
 <p >
 	<div class="class_2">
-		The 11<sup>th</sup> Annual Alumni Meet from 17<sup>th</sup> to 19<sup>th</sup> January,  2014 the time for which most of you were eagerly waiting,  to re-live your past, to re-explore your alma mater, to have a reunion of your colleagues, to share your experiences after college life,  is
+		The 12<sup>th</sup> Annual Alumni Meet from 9<sup>th</sup> to 11<sup>th</sup> January,  2015 the time for which most of you were eagerly waiting,  to re-live your past, to re-explore your alma mater, to have a reunion of your colleagues, to share your experiences after college life,  is
 		now anxiously awaiting your arrival.
 	</div>
 </p>
@@ -32,11 +32,7 @@
 			that sento which made it a 'HALL' and never a hostel. The time has come to feel that zeal once again in your
 			hearts.</br>
 		</li></br>
-
-
-
-
-		<li>The tremendous infrastructural development that has taken place in the Institute is bound to sweep you
+				<li>The tremendous infrastructural development that has taken place in the Institute is bound to sweep you
 			off your feet. The Meet is a chance for you to witness the improvement in facilities in the recent years, 
 			like renovation of the Old Gymkhana,  construction of new labs,  classrooms,  etc.</br> 
 		</li></br></br>
@@ -66,5 +62,8 @@
 		<li>The Alumni Meet offers you the opportunity to do some effective networking especially if you are
 			planning to expand your business,  change jobs or relocate.
 		</li></br>
+		<li>
+		Take back souvenirs from your Alma Mater - as a mother’s gift is always priceless.
+		</li><br/>
 	</div>
 </ol>

@@ -45,6 +45,7 @@ foreach($input as $key=>$value){
 	$msg = $msg.",".$key;
 	}
 }
+if($msg=="")
 echo($msg);
 
 }

@@ -57,7 +57,7 @@ if($_POST['email']!=$_POST['confirm-email']) {
 if($msg!="You have not filled: ")
 echo($msg);
 else{
-$query = mysql_query("INSERT INTO alumni()");
+$query = mysql_query("INSERT INTO alumni VALUES('','$username','$firstname','$lastname','$password','$email','$middlename','$address1','$address2','$city','$state','$country','$zipcode','$mobile','$landline','$alternateemail','$photo','$dob','$maritalstatus','$spousename','$dateofbirth','$namesofchildren','$maidenname','$familyphoto','$industry','$profession','$organization','$designation','$caddress1','$caddress2','$ccity','$cstate','$ccountry','$czip','$ophone','$oemail','$website','$cv','$rollno','$yoj','degree1','$department1','$yop1','$hall1')");
 if(!$query){
 	echo("There was some problem in registring ".mysql_error());
 }

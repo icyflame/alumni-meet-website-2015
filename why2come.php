@@ -9,19 +9,17 @@
 
 </head>
 
-<body >
+<body class="container">
 
 	<div id="topbar" class="navbar">
 
 		<?php include("menubar.php"); ?>
 
 	</div>
-
-	<br/>
-	<br/>
-
-	<div class="col-md-10">
-		<div id="" style="position:relative;padding-left:65px;padding-right:35px;padding-top:30px;margin-bottom:40px;border-radius:10px; text-align: justify;background-color:white">
+	<div class="row">
+<div class="col-md-2"></div>
+	<div class="col-md-8">
+		<div id="" style="border:2px solid white; border-radius:8px;padding-left:3px;padding-right:3px;">
 
 			<?php include("points_why2come.php"); ?>
 
@@ -35,7 +33,7 @@
 
 	</div>
 
-
+</div>
 </body>
 
 </html>

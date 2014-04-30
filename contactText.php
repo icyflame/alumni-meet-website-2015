@@ -32,18 +32,18 @@
 	<div class="name_left"><b>Email:</b><a href=" mailto:shruti@adm.iitkgp.ernet.in" target="a_blank">shruti@adm.iitkgp.ernet.in </a>GSM: 9475371800 </div>
 	<br><br><br><br>
 
-	<img class="pic_right" src="images/gsec-photos/1.jpg" alt="picture" width="100px" height="100px"><br>
+	<img class="pic_right" src="images/gsec-photos/1.jpg" alt="picture"  height="100px"><br>
 	<div class="name_right"><b>Mr. Arpit Gupta, General Secretary, Students' Alumni Cell</b></div><br>
 	<div class="name_right"><b>Email:</b><a href="mailto:arpitgupta366@gmail.com" target="a_blank"> arpitgupta366@gmail.com</a>; GSM: +918101119095</div>
 	<br><br><br><br>
 
-	<img class="pic_left" src="images/gsec-photos/2.jpg" alt="picture" width="100px" height="100px"><br>
+	<img class="pic_left" src="images/gsec-photos/2.jpg" alt="picture"  height="100px"><br>
 	<div class="name_left"><b>Mr. Manish Goyal, General Secretary, Students' Alumni Cell</b> </div><br>
 	<div class="name_left"> <b>Email:</b><a href="mailto:gmanish1993@gmail.com" target="a_blank"> gmanish1993@gmail.com </a> ; GSM: +917797437023</div>
 	<br><br><br>
 
 	<br><br><br><br>
-	<div class="pic_left"> <b>Job Assistants:</b> Prasenjit Banerjee, Sadhan Banerjee</div><br>
-	<div class="pic_left"><b>Office Assistants:</b> Tapas Panda, Provas Kar</div>
+	<div class="pic_left"> <b>Job Assistants:</b> Prasenjit Banerjee, Sadhan Banerjee &nbsp;&nbsp;&nbsp;<b>Office Assistants:</b> Tapas Panda, Provas Kar</div><br>
+	<div class="pic_left"></div>
 
 </font>
