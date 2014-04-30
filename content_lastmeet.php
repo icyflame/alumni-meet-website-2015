@@ -23,7 +23,7 @@
         departments where they were briefed about the recent developments and
         were enlightened about the department's vision for the future.</span>
 
-        <p><img src="events_images/inaguration.jpg" width="40%" /></p>
+        <p><img src="last_meet/seminar.jpg" width="40%" /></p>
 
         <div class="notViewed animBlock" data-offset="250" data-position=
         "right" id="iphonePerspective">
@@ -40,7 +40,7 @@
         <div class="notViewed animBlock" data-offset="250" data-position=
         "left-image" id="iphonePerspective">
             <span style="float:right"><img src=
-            "events_images/musical_night.jpg" width="40%" /></span>
+            "last_meet/musical.jpg" width="40%" /></span>
         </div>
 
         <div class="notViewed animBlock" data-offset="250" data-position="left"
@@ -54,7 +54,7 @@
             The students of the respective halls had also organized various
             events for the alumni.</span> <span style="font-size:14px"><br />
             <br />
-            <img src="events_images/hall_visit.jpg" width="40%" /></span>
+            <img src="last_meet/hall.jpg" width="40%" /></span>
         </div>
 
         <div class="notViewed animBlock" data-offset="250" data-position=
@@ -71,7 +71,7 @@
         <div class="notViewed animBlock" data-offset="250" data-position=
         "left-image" id="iphonePerspective">
             <span style="float:right"><img src=
-            "events_images/musical_night.jpg" width="40%" /></span>
+            "last_meet/opening.jpg" width="40%" /></span>
         </div>
 
         <div class="notViewed animBlock" data-offset="250" data-position="left"
@@ -83,7 +83,7 @@
             works which were auctioned during the Meet.</span> <span style=
             "font-size:14px"><br />
             <br />
-            <img src="events_images/fine_arts.jpg" width="40%" /></span>
+            <img src="last_meet/painting.jpg" width="40%" /></span>
         </div>
 
         <div class="notViewed animBlock" data-offset="250" data-position=
@@ -100,7 +100,7 @@
 
         <div class="notViewed animBlock" data-offset="250" data-position=
         "left-image" id="iphonePerspective">
-            <span><img src="events_images/bonfire.jpg" width="40%" /></span>
+            <span><img src="last_meet/entertainia.jpg" width="40%" /></span>
         </div>
 
         <div class="notViewed animBlock" data-offset="250" data-position="left"
@@ -113,7 +113,7 @@
             the funfilled night seemed to be everlasting.</span> <span style=
             "font-size:14px"><br />
             <br />
-            <img src="events_images/2.2.jpg" width="40%" /></span>
+            <img src="last_meet/illu.jpg" width="40%" /></span>
         </div>
 
         <div class="notViewed animBlock" data-offset="250" data-position=
@@ -130,7 +130,7 @@
         <div class="notViewed animBlock" data-offset="250" data-position=
         "left-image" id="iphonePerspective">
             <span style="float: right; font-size: 14px"><img src=
-            "events_images/entertania2.jpg" width="40%" /></span>
+            "last_meet/2.2.jpg" width="40%" /></span>
         </div>
 
         <div class="notViewed animBlock" data-offset="250" data-position="left"
@@ -146,7 +146,7 @@
             session involving doubts from the students and conclusion from the
             moderator.</span> <span style="font-size:14px"><br />
             <br />
-            <img src="events_images/closing_ceremony.jpg" width="40%" /></span>
+            <img src="last_meet/seminar.jpg" width="40%" /></span>
         </div>
 
         <div class="notViewed animBlock" data-offset="250" data-position=
@@ -163,7 +163,7 @@
 
         <div class="notViewed animBlock" data-offset="250" data-position=
         "left-image" id="iphonePerspective">
-            <span><img src="events_images/bonfire.jpg" width="40%" /></span>
+            <span><img src="last_meet/closing2.jpg" width="40%" /></span>
         </div>
     </div>
     <hr />

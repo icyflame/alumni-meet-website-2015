@@ -32,7 +32,7 @@
 
 			<div class="col-md-8" style="background:;">
 
-				<h2 style="text-align: center;"> Yearnings of Yore </h2>
+				<h2 style=git text-align: center;"> Yearnings of Yore </h2>
 
 				<h4 style="text-align: justify;">Yearnings of Yore is an assorted collection of memoirs, which contains literary pieces and photographs/ sketches of your most cherished memories during your stay in KGP. This magazine is our exclusive Annual Alumni Meet souvenir to be given to all the alumni attending the Meet in January, 2014. We encourage you to share your stories and past experiences with us so that we could publish it in the magazine.</h4>
 
