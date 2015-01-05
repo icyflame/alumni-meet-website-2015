@@ -29,15 +29,15 @@
 <br><br><br>
 			<h2>Media Partner</h2>
 
-			 <a href="http://www.hindustantimes.com" target="_blank"><img class="spons" src="images/spons2015/media.jpg" width="400px" height=""/></a>
+			 <a href="http://www.hindustantimes.com" target="_blank"><img class="spons" src="images/spons2015/media.jpg" width="1000px" height="100"/></a>
 <br><br><br>
 			<h2> Strategic Sponsor </h2>
 
-			 <a href="http://www.cselectric.co.in" target="_blank"><img class="spons" src="images/spons2015/strategic.jpg" width="400px" height=""/></a>
+			 <a href="http://www.cselectric.co.in" target="_blank"><img class="spons" src="images/spons2015/strategic.jpg" width="" height=""/></a>
 <br><br><br>
 			<h2> Major Sponsors </h2>
 
-			 <a href="http://www.sesasterlite.com/our-operations/copper.aspx" target="_blank"><img class="spons" src="images/spons2015/major.jpg" width="200px" height=""/></a>
+			 <a href="http://www.sesasterlite.com/our-operations/copper.aspx" target="_blank"><img class="spons" src="images/spons2015/major.jpg" width="1000px" height="100px"/></a>
 <br><br><br>
 			<h2> Luxury Hotel Partner </h2>
 
@@ -68,7 +68,7 @@
 <a href="http://www.kwalitymakers.in" target="_blank"><img class="spons" src="images/spons2015/g6.jpg" width="200px" height=""/></a>
 <br><br>
 <a href="http://www.siegsms.com" target="_blank"> <img class="spons" src="images/spons2015/g7.jpg" width="300px" height=""/></a>
-<a href="http://www.coca-colaindia.com/" target="_blank"> <img class="spons" src="images/spons2015/g8.jpg" width="300px" height=""/></a><br><br><br>
+<a href="http://www.coca-colaindia.com/" target="_blank"> <img class="spons" src="images/spons2015/g8.jpg" width="200px" height="200px" style="border-radius:100%;"/></a><br><br><br>
 <a href="http://www.deuter.com/de/en/" target="_blank"> <img class="spons" src="images/spons2015/g9.jpg" width="300px" height=""/></a>
 <a href="http://nightingale.co.in" target="_blank"><img class="spons" src="images/spons2015/g10.jpg" width="300px" height=""/></a>
 <a href="http://www.motaramnamkeen.com" target="_blank"><img class="spons" src="images/spons2015/g11.jpg" width="300px" height=""/></a>
