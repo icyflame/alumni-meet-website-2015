@@ -78,11 +78,12 @@
 <br/><br/>
 <a href="http://www.ssdindia.in/" target="_blank"><img class="spons" src="images/spons2015/g15.jpg" width="300px" height=""/></a>
 <br><br>
+<br><br><br>		
+	<h2> Online Media Partners </h2>
+<a href="#" target="_blank"><img class="spons" src="images/spons2015/omp1.jpg" width="200px" height=""/></a>     
+<a href="#" target="_blank"> <img class="spons" src="images/spons2015/omp2.jpg" width="200px" height=""/></a>   
+ <br><br><br><br>
 
-
-
-
-							 <br><br><br><br>
 		</div>
 		<div class="col-md-2" style="background:; text-align:center">
 <?php include("socialIcons.php");?>
