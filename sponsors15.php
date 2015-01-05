@@ -29,14 +29,15 @@
 			<h2> Co Sponsors </h2>
 			<a href="http://www.ulaindia.com" target="_blank"><img class="spons" src="images/spons2015/cosponsor.jpg" width="600px" height=""/></a>
 <br><br><br>
+			<h2> Strategic Sponsor </h2>
+
+			 <a href="http://www.cselectric.co.in" target="_blank"><img class="spons" src="images/spons2015/strategic.jpg" width="380px" height="250px"/></a>
+<br><br><br>
 			<h2>Media Partner</h2>
 
 			 <a href="http://www.hindustantimes.com" target="_blank"><img class="spons" src="images/spons2015/media.jpg" width="1000px" height="100"/></a>
 <br><br><br>
-			<h2> Strategic Sponsor </h2>
-
-			 <a href="http://www.cselectric.co.in" target="_blank"><img class="spons" src="images/spons2015/strategic.jpg" width="" height=""/></a>
-<br><br><br>
+			
 			<h2> Major Sponsors </h2>
 
 			 <a href="http://www.sesasterlite.com/our-operations/copper.aspx" target="_blank"><img class="spons" src="images/spons2015/major.jpg" width="1000px" height="100px"/></a>
