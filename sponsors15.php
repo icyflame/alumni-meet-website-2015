@@ -1,0 +1,97 @@
+<html>
+
+	<head>
+
+	<title>12th Alumni Meet</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+	<?php include("mainStyle.php");?>
+
+
+
+
+</head>
+
+<style>.spons{ margin-left:35px; margin-right:35px; }</style>
+
+<body class="container">
+
+	<div class="container">
+
+		<?php include("top_home.php"); ?>
+
+<div class="row">
+		<div class="col-md-10" style=" color:white; text-align:center; " >
+
+			<h1> Sponsors 2015 </h1>
+
+			<h2> Co Sponsors </h2>
+			<a href="#" target="_blank"><img class="spons" src="images/spons2015/cosponsor.jpg" width="600px" height=""/></a>
+<br><br><br>
+			<h2>Media Partner</h2>
+
+			 <a href="#" target="_blank"><img class="spons" src="images/spons2015/media.jpg" width="400px" height=""/></a>
+<br><br><br>
+			<h2> Strategic Sponsor </h2>
+
+			 <a href="#" target="_blank"><img class="spons" src="images/spons2015/strategic.jpg" width="400px" height=""/></a>
+<br><br><br>
+			<h2> Major Sponsors </h2>
+
+			 <a href="#" target="_blank"><img class="spons" src="images/spons2015/major.jpg" width="200px" height=""/></a>
+<br><br><br>
+			<h2> Luxury Hotel Partner </h2>
+
+			 <a href="#" target="_blank"><img class="spons" src="images/spons2015/luxuryhotelpartner.jpg" width="400px" height=""/></a>
+<br><br><br>
+
+			<h2> Event Sponsors </h2>
+
+<a href="#" target="_blank"><img class="spons" src="images/spons2015/e1.jpg" width="200px" height=""/></a>
+
+			<a href="#" target="_blank"> <img class="spons" src="images/spons2015/e2.jpg" width="200px" height=""/></a>
+
+<a href="#" target="_blank"> <img class="spons" src="images/spons2015/e3.jpg" width="200px" height=""/></a><br><br>
+<a href="#" target="_blank"><img class="spons" src="images/spons2015/e7.jpg" width="200px" height=""/></a>
+
+<a href="#" target="_blank"><img class="spons" src="images/spons2015/e5.jpg" width="200px" height=""/></a>
+<a href="#" target="_blank"><img class="spons" src="images/spons2015/e6.jpg" width="200px" height=""/></a>
+<a href="#" target="_blank"> <img class="spons" src="images/spons2015/e4.jpg" width="200px" height=""/></a>
+
+	<br><br><br>		
+	<h2> Gift Sponsors </h2>
+<a href="http://www.gatikwe.com/" target="_blank"><img class="spons" src="images/spons2015/g1.jpg" width="200px" height=""/></a>     
+<a href="http://www.indiaskylanterns.com/" target="_blank"> <img class="spons" src="images/spons2015/g2.jpg" width="200px" height=""/></a>   
+<a href="http://www.idasystems.net/" target="_blank"> <img class="spons" src="images/spons2015/g3.jpg" width="200px" height=""/></a>
+<br><br>
+<a href="http://www.iwt.in/" target="_blank"> <img class="spons" src="images/spons2015/g4.jpg" width="200px" height=""/></a>
+<a href="http://www.coca-colaindia.com/" target="_blank"> <img class="spons" src="images/spons2015/g5.jpg" width="200px" height=""/></a>
+<a href="http://www.sardamagnets.com/" target="_blank"><img class="spons" src="images/spons2015/g6.jpg" width="200px" height=""/></a>
+<br><br>
+<a href="http://www.tatonka.com/defaulten.aspx" target="_blank"> <img class="spons" src="images/spons2015/g7.jpg" width="300px" height=""/></a>
+<a href="http://www.vanguardworld.com/" target="_blank"> <img class="spons" src="images/spons2015/g8.jpg" width="300px" height=""/></a><br><br><br>
+<a href="http://www.staedtler-india.com/" target="_blank"> <img class="spons" src="images/spons2015/g9.jpg" width="300px" height=""/></a>
+<a href="http://www.ssdindia.in/" target="_blank"><img class="spons" src="images/spons2015/g10.jpg" width="300px" height=""/></a>
+<a href="http://www.ssdindia.in/" target="_blank"><img class="spons" src="images/spons2015/g11.jpg" width="300px" height=""/></a>
+<a href="http://www.ssdindia.in/" target="_blank"><img class="spons" src="images/spons2015/g12.jpg" width="300px" height=""/></a>
+<a href="http://www.ssdindia.in/" target="_blank"><img class="spons" src="images/spons2015/g13.jpg" width="300px" height=""/></a>
+<a href="http://www.ssdindia.in/" target="_blank"><img class="spons" src="images/spons2015/g14.jpg" width="300px" height=""/></a>
+<br/><br/>
+<a href="http://www.ssdindia.in/" target="_blank"><img class="spons" src="images/spons2015/g15.jpg" width="300px" height=""/></a>
+<br><br>
+
+
+
+
+							 <br><br><br><br>
+		</div>
+		<div class="col-md-2" style="background:; text-align:center">
+<?php include("socialIcons.php");?>
+
+	</div> 
+
+</div>
+</div>
+
+</body>
+
+</html>
