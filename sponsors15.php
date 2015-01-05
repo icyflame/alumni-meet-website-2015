@@ -11,7 +11,11 @@
 
 </head>
 
-<style>.spons{ margin-left:35px; margin-right:35px; }</style>
+<style>
+.spons{ 
+	margin: 10px;
+	}
+	</style>
 
 <body class="container">
 
@@ -59,6 +63,7 @@
 
 	<br><br><br>		
 	<h2> Gift Sponsors </h2>
+
 <a href="http://www.bulkemailsmsindia.com" target="_blank"><img class="spons" src="images/spons2015/g1.jpg" width="200px" height=""/></a>     
 <a href="http://www.mybakesmiths.com" target="_blank"> <img class="spons" src="images/spons2015/g2.jpg" width="200px" height=""/></a>   
 <a href="http://www.vanguardworld.com" target="_blank"> <img class="spons" src="images/spons2015/g3.jpg" width="200px" height=""/></a>
@@ -69,13 +74,14 @@
 <br><br>
 <a href="http://www.siegsms.com" target="_blank"> <img class="spons" src="images/spons2015/g7.jpg" width="300px" height=""/></a>
 <a href="http://www.coca-colaindia.com/" target="_blank"> <img class="spons" src="images/spons2015/g8.jpg" width="200px" height="200px" style="border-radius:100%;"/></a><br><br><br>
-<a href="http://www.deuter.com/de/en/" target="_blank"> <img class="spons" src="images/spons2015/g9.jpg" width="300px" height=""/></a>
-<a href="http://nightingale.co.in" target="_blank"><img class="spons" src="images/spons2015/g10.jpg" width="300px" height=""/></a>
-<a href="http://www.motaramnamkeen.com" target="_blank"><img class="spons" src="images/spons2015/g11.jpg" width="300px" height=""/></a>
-<a href="http://www.giftstoindia24x7.com" target="_blank"><img class="spons" src="images/spons2015/g12.jpg" width="300px" height=""/></a>
-<a href="http://www.schneiderpen.de/en/home.html" target="_blank"><img class="spons" src="images/spons2015/g13.jpg" width="300px" height=""/></a>
+<a href="http://www.deuter.com/de/en/" target="_blank"> <img class="spons" src="images/spons2015/g9.jpg" width="200px" height=""/></a>
+<br><br>
+<a href="http://nightingale.co.in" target="_blank"><img class="spons" src="images/spons2015/g10.jpg" width="200px" height=""/></a>
+<a href="http://www.motaramnamkeen.com" target="_blank"><img class="spons" src="images/spons2015/g11.jpg" width="200px" height=""/></a>
+<a href="http://www.giftstoindia24x7.com" target="_blank"><img class="spons" src="images/spons2015/g12.jpg" width="200px" height=""/></a>
+<br><br>
+<a href="http://www.schneiderpen.de/en/home.html" target="_blank"><img class="spons" src="images/spons2015/g13.jpg" width="350px" height="100px"/></a>
 <a href="http://www.10kya.com" target="_blank"><img class="spons" src="images/spons2015/g14.jpg" width="300px" height=""/></a>
-<br/><br/>
 <a href="http://goo.gl/t2S0xZ" target="_blank"><img class="spons" src="images/spons2015/g15.jpg" width="300px" height=""/></a>
 <br><br>
 <br><br><br>		
