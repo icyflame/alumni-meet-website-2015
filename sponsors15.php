@@ -62,7 +62,7 @@ transition: all 0.5s ease-out;
 <br><br><br>
 			<h2> Luxury Hotel Partner </h2>
 
-			 <a href="http://www.parkplaza.com" target="_blank"><img class="spons" src="images/spons2015/luxuryhotelpartner.png" width="400px" height=""/></a>
+			 <a href="http://www.parkplaza.com" target="_blank"><img class="spons" src="images/spons2015-jpg/luxuryhotelpartner.jpg" width="400px" height=""/></a>
 <br><br><br>
 
 			<h2> Event Sponsors </h2>
@@ -74,7 +74,7 @@ transition: all 0.5s ease-out;
 <a href="http://www.irel.gov.in" target="_blank"> <img class="spons" src="images/spons2015/e3.png" width="200px" height=""/></a><br><br>
 <a href="http://www.npcil.nic.in" target="_blank"><img class="spons" src="images/spons2015/e7.png" width="200px" height=""/></a>
 
-<a href="http://www.wbsetcl.in" target="_blank"><img class="spons" src="images/spons2015/e5.png" width="200px" height=""/></a>
+<a href="http://www.wbsetcl.in" target="_blank"><img class="spons" src="images/spons2015-jpg/e5.jpg" width="200px" height=""/></a>
 <a href="http://www.isaimpex.in" target="_blank"><img class="spons" src="images/spons2015/e6.png" width="200px" height=""/></a>
 <a href="http://www.ucil.gov.in/web/index.asp" target="_blank"> <img class="spons" src="images/spons2015/e4.png" width="200px" height=""/></a>
 
@@ -91,13 +91,13 @@ transition: all 0.5s ease-out;
 <a href="http://www.siegsms.com" target="_blank"> <img class="spons" src="images/spons2015/g7.png" width="300px" height=""/></a>
 <a href="http://www.coca-colaindia.com/" target="_blank"> <img class="spons" src="images/spons2015/g8.png" width="200px" height="200px" style="border-radius:100%;"/></a><br><br><br>
 <a href="http://www.deuter.com/de/en/" target="_blank"> <img class="spons" src="images/spons2015/g9.png" width="200px" height=""/></a>
-<a href="http://nightingale.co.in" target="_blank"><img class="spons" src="images/spons2015/g10.png" width="200px" height="250px"/></a>
+<a href="http://nightingale.co.in" target="_blank"><img class="spons" src="images/spons2015-jpg/g10.jpg" width="200px" height="250px"/></a>
 <a href="http://www.motaramnamkeen.com" target="_blank"><img class="spons" src="images/spons2015/g11.png" width="200px" height=""/></a>
 <a href="http://www.giftstoindia24x7.com" target="_blank"><img class="spons" src="images/spons2015/g12.png" width="200px" height=""/></a>
 <a href="http://www.schneiderpen.de/en/home.html" target="_blank"><img class="spons" src="images/spons2015/g13.png" width="350px" height="100px"/></a>
 <a href="http://www.10kya.com" target="_blank"><img class="spons" src="images/spons2015/g14.png" width="300px" height=""/></a>
 <br/><br/>
-<a href="http://goo.gl/t2S0xZ" target="_blank"><img class="spons" src="images/spons2015/g15.png" width="300px" height=""/></a>
+<a href="http://goo.gl/t2S0xZ" target="_blank"><img class="spons" src="images/spons2015-jpg/g15.jpg" width="300px" height=""/></a>
 <br><br>
 <br><br><br>		
 	<h2> Online Media Partners </h2>
