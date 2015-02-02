@@ -11,7 +11,7 @@
 	<script type="text/javascript" src="sponsor-cycle/cycle-script.js"></script>
 	
 </head>
-<body class="container" id="page" onLoad="targetDate()"> 
+<body class="container" id="page"> 
 	
 	<?php //include("back.php");?>
 
@@ -73,8 +73,6 @@ $(document).ready(function(){
 });
 
 </script>
-
-<script src="js/countdown.js"></script>
 
 </script>
 

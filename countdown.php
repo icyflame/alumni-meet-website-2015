@@ -2,27 +2,32 @@
 <script>
 function checkMonth(m) {
 	if(m==0 || m==2 || m==4 || m==6 || m==7 || m==9 || m==11){
-		return 31;}
-		else {if(m==1){
-			return 28;}
-			else{
-				return 30;}}
+		return 31;
+		}
+	else {
+		if(m==1){
+		return 28;
+		}
+		else{
+		return 30;
+		}
+	}
 
-			}
+}
 
-			function checkTime(i) {
-				if (i<10) {i = "0" + i};
-				return i;
-			}
+function checkTime(i) {
+	if (i<10) {i = "0" + i};
+	return i;
+}
 
-			function targetDate() {
-				var currentDate = new Date();
-				var futureDate  = new Date(currentDate.getFullYear() + 1, 0, 08,23,59,59);
-				var day = calcDate(futureDate);
-				var hr = Math.abs(futureDate.getHours()-currentDate.getHours());
-				var mn = Math.abs(futureDate.getMinutes()-currentDate.getMinutes());
-				var sec = Math.abs(futureDate.getSeconds()-currentDate.getSeconds());
-				mn = checkTime(mn);
+function targetDate() {
+	var currentDate = new Date();
+	var futureDate  = new Date(currentDate.getFullYear() + 0, 0, 08,23,59,59);
+	var day = calcDate(futureDate);
+	var hr = Math.abs(futureDate.getHours()-currentDate.getHours());
+	var mn = Math.abs(futureDate.getMinutes()-currentDate.getMinutes());
+	var sec = Math.abs(futureDate.getSeconds()-currentDate.getSeconds());
+	mn = checkTime(mn);
 	//sec = checkTime(mn);
 	if(sec < 10)
 		document.getElementById('new').innerHTML = day+":"+hr+":"+mn+":0"+sec;
@@ -49,6 +54,8 @@ function calcDate(futureDate) {
 }
 </script>
 
+<body onload="targetDate()">
 <h5>Countdown to the 12th Annual Alumni Meet</h5>
 <div id="new" style="font-size:40px;font-family:verdana;"></div>
+</body>
 

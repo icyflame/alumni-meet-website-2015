@@ -44,7 +44,7 @@ transition: all 0.5s ease-out;
 
 			<h1> Sponsors 2015 </h1>
 
-			<h2> Co Sponsors </h2>
+			<h2> Co Sponsor </h2>
 			<a href="http://www.ulaindia.com" target="_blank"><img class="spons" src="images/spons2015/cosponsor.png" width="600px" height=""/></a>
 <br><br><br>
 			<h2> Strategic Sponsor </h2>
@@ -56,7 +56,7 @@ transition: all 0.5s ease-out;
 			 <a href="http://www.hindustantimes.com" target="_blank"><img class="spons" src="images/spons2015/media.png" width="1000px" height="100"/></a>
 <br><br><br>
 			
-			<h2> Major Sponsors </h2>
+			<h2> Major Sponsor </h2>
 
 			 <a href="http://www.sesasterlite.com/our-operations/copper.aspx" target="_blank"><img class="spons" src="images/spons2015/major.png" width="1000px" height="100px"/></a>
 <br><br><br>
